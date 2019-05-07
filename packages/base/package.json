@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "description": "base presets",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "7a2e10b6eae3c96be71ba363ec4e53fc7a159642"
 }
