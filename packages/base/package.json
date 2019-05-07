@@ -1,0 +1,7 @@
+{
+  "name": "@razor/presets-base",
+  "version": "0.0.1",
+  "description": "base presets",
+  "main": "index.js",
+  "license": "MIT"
+}

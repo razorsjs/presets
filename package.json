@@ -1,11 +1,14 @@
 {
   "name": "@razor/presets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "presets for javascript",
   "main": "index.js",
   "repository": "https://github.com/razorsjs/presets.git",
   "author": "liujia02 <bit_liujia@163.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/lerna publish"
+  },
   "devDependencies": {
     "lerna": "^3.13.4"
   }
