@@ -1,11 +1,10 @@
 {
-  "name": "@razor/presets-base",
+  "name": "@razors/presets-base",
   "version": "0.0.3-alpha.1",
   "description": "base presets",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "80e982f295b8847d376a4f157f7db6c3b2b3115c"
+  }
 }
