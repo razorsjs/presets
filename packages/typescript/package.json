@@ -3,5 +3,8 @@
   "version": "0.0.3-alpha.4",
   "description": "typescript presets",
   "author": "bit_liujia@163.com",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
