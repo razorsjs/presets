@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "./node_modules/.bin/lerna publish"
+    "publish": "./node_modules/.bin/lerna publish"
   },
   "devDependencies": {
     "lerna": "^3.13.4"
