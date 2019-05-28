@@ -1,6 +1,6 @@
 {
   "name": "@razors/presets-base",
-  "version": "0.0.3-alpha.3",
+  "version": "0.0.3-alpha.8",
   "description": "base presets",
   "main": "index.js",
   "license": "MIT",
